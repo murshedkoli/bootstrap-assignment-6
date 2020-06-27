@@ -1,0 +1,144 @@
+header{
+	background-image: url(../img/banner1.jpg);
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.explore{}
+.gift{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 70px;
+}
+.desh{height: 2px;width: 100px;
+	margin: auto;background: red;margin-bottom: 20px;}
+
+.logo{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.logo span{
+    font-weight: normal;
+    font-size: 14px;
+    display: block;
+}
+
+.banner-items{
+    text-align: center;
+    padding: 70px 0;
+}
+.bani{
+    padding: 40px 0;
+    background-color: #c7c8ca3b !important;
+}
+
+.bani h4{
+    color: #00000063;
+}
+.bani h3{
+    color: #7a7c7e;
+}
+
+.two-pic{
+    padding: 30px;
+}
+
+.two-pic h3{
+    FONT-SIZE: 25px;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+.two-pic P{}
+.two-pic A{color: chocolate;text-transform: uppercase;letter-spacing: 5px;font-weight: bold;}
+
+.upc{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.two-pic img{
+    padding: 10px;
+}
+
+.section-explore{
+    background-image: url(../img/explore.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    background-color: blueviolet;
+    background-blend-mode: normal;
+}
+.explore{
+    padding: 40px 0;
+}
+.explore h1{
+    text-transform: uppercase;
+    font-size: 70px;
+    font-weight: bold;
+}
+.explore p{
+    font-size: 20px;
+}
+.explore a{
+    color: aliceblue;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.full-tour{
+    padding: 40px 0;
+}
+.tour{}
+
+.tour h1{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.tour p{}
+.tour a{
+    color: #fff;
+}
+
+.big{
+    border-radius: 10px;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+.small{
+    border-radius: 10px;
+    height: 240px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #292929;
+    padding: 20px 0;
+}
+
+.footer-area{}
+.footer-area h3{
+    color: #f0f8ff61;
+    font-size: 20px;
+}
+.footer-area h4{
+    color: #f0f8ff73;
+}
+
+.custom-nav li a {
+    border: 1px solid #fff8f800;
+    border-radius: 20px;
+}
+
+.custom-nav li a:hover{
+    border: 1px solid #fff8f8a1;
+}
+.custom-nav li:last-child a{
+    border: 1px solid #fff8f8a1;
+}
