@@ -104,13 +104,13 @@ header{
     color: #fff;
 }
 
-.big{
+.big1{
     border-radius: 10px;
     height: 350px;
     object-fit: cover;
     margin-bottom: 10px;
 }
-.small{
+.small1{
     border-radius: 10px;
     height: 240px;
     object-fit: cover;
@@ -134,6 +134,8 @@ footer{
 .custom-nav li a {
     border: 1px solid #fff8f800;
     border-radius: 20px;
+    color:white;
+    font-weight: bold;
 }
 
 .custom-nav li a:hover{

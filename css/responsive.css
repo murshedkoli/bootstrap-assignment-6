@@ -1,0 +1,101 @@
+
+
+ 
+@media (min-width: 200px) {
+    .explore1{
+        font-size: 20px;
+        color: #555555;
+    }
+    .gift{
+        font-size: 40px;
+        color: #ffffff;
+        text-shadow: 0px 2px 0px #555555;
+    }
+    .bani h3, .bani h4{
+        font-size: 15px;
+    }
+    .explore h1{
+        color: #ffffff;
+        font-size: 30px;
+    }
+    .explore p{
+        color: #ffffff;
+        font-size: 15px;
+    }
+    .big1,.small1 {
+        width: 100%;
+     }
+     .tour{
+        text-align: center;
+    }
+
+    .footer-area h4{
+        font-size: 12px;
+    }
+    .footer-area h3{
+        font-size: 10px;
+    }
+ }
+
+
+
+ @media (min-width: 576px) {
+    .big1,.small1 {
+       width: 100%;
+    }
+
+    .explore h1{
+        color: #ffffff;
+        font-size: 50px;
+    }
+  .tour{
+      text-align: center;
+  }
+  .footer-area h4{
+      font-size: 15px;
+  }
+  .footer-area h3{
+      font-size: 12px;
+  }
+ }
+
+ 
+@media (min-width: 768px) {
+    .explore1{
+        font-size: 30px;
+        color: #ffffff;
+    }
+    .gift{
+        font-size: 70px;
+        color: #ffffff;
+       
+    }
+    .bani h3, .bani h4{
+        font-size: 20px;
+    }
+    .explore h1{
+        color: #ffffff;
+        font-size: 70px;
+    }
+    
+    }
+    
+}
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+ }
+
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+
+ }
+
+
+
+
+
+
